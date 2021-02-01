@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575904733631",
+    "project_id": "mastekapp-358b1",
+    "storage_bucket": "mastekapp-358b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575904733631:android:b0e3c1f6a58af3fcf1e90a",
+        "android_client_info": {
+          "package_name": "com.example.mastekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575904733631-tj0lvph1a25tkfgtbrnpc0r3cao1it8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5cgnJeNWrjat5vbAAxx2uFycR2v-B9vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575904733631-tj0lvph1a25tkfgtbrnpc0r3cao1it8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
